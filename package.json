@@ -1,0 +1,12 @@
+{
+  "name": "buildTest",
+  "version": "0.0.1",
+  "devDependencies": {
+    "browserify": "~2.32.2",
+    "handlebars": "~1.0.12",
+    "handlebars-runtime": "~1.0.12",
+    "hbsfy": "~0.1.5",
+    "through": "~2.3.4",
+    "uglify-js": "~2.4.0"
+  }
+}
