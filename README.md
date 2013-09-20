@@ -1,4 +1,4 @@
-Simple example of using browserify and makefile for projects. With example of requiring json and handlebars templates.
+Simple example of using browserify and makefile for projects. With example of uglifying and requiring json and handlebars templates.
 
 ## Usage
 Install dependencies and make:
